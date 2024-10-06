@@ -37,7 +37,7 @@ extern "C" {
 #include "fix16.h"
 #include "types.h"
 
-/*----- Macros and Definitions ---------------------------------------*/
+/*----- Macros -------------------------------------------------------*/
 
 #define FIX_DIG_LO 5
 #define FIX_DIG_HI 5
